@@ -12,3 +12,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 This is jaradiokids
 1234　おはよう こちらは じゃーらじ
 
+<a href =  "https://github.com/jaradiokids/Spoon-Knife/blob/main/test_jpg.jpg">
+<img src = "https://github.com/jaradiokids/Spoon-Knife/blob/main/test_jpg.jpg" 
+        width="512" height="288" ></a>
